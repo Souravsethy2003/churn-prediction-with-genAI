@@ -1,0 +1,1001 @@
+customerID,churn_probability,prediction,top_drivers,recommendations
+9376-IHLNO,0.0372,0,"No online security, No tech support",Standard engagement; invite referral program
+6911-DYGYU,0.5782,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+5613-CPAVU,0.3436,0,Electronic check,Standard engagement; invite referral program | Promote speed-feature education
+9034-FESOS,0.3549,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+4139-SAQEN,0.7546,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+5653-HNYYJ,0.3381,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+3929-ONYHK,0.6505,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5958-CKRMV,0.7411,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+9032-JGOSO,0.5487,1,Short contract,Education-series emails (how-to tips) | Promote speed-feature education
+9618-CQULH,0.1664,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+5033-MBUGB,0.666,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9553-LKMHK,0.8953,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+6814-MUCIR,0.8872,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+4539-ZCHDK,0.2767,0,No online security,Standard engagement; invite referral program
+5061-OMDCO,0.4797,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+6046-MZSMB,0.2572,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+2979-DATAT,0.6363,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5714-PMXAN,0.5866,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+6217-GXBHE,0.1001,0,"No online security, No tech support",Standard engagement; invite referral program
+8021-TYKIS,0.7407,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+9274-TOCDQ,0.2952,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+8643-XKNRT,0.746,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8774-RIBRP,0.0937,0,No tech support,Standard engagement; invite referral program
+8105-ZUZVW,0.3958,0,Electronic check,Standard engagement; invite referral program | Promote speed-feature education
+2370-OCJIM,0.0787,0,No online security,Standard engagement; invite referral program
+1437-HVLSF,0.4788,0,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+6325-ZILIU,0.7533,1,"Short contract, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+7689-AMEGX,0.7837,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8600-QYXFL,0.1079,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6309-DMZGK,0.5431,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+8465-BWLXU,0.6238,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+9691-KQCNG,0.8607,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+9842-NKUTT,0.6794,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4445-ZWPBG,0.5343,1,"Short contract, No online security",Education-series emails (how-to tips)
+4741-OOZBX,0.5976,1,Very new customer,Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+4061-OGBYU,0.5855,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+5148-TYVDI,0.352,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+6068-BRQNV,0.1906,0,No online security,Standard engagement; invite referral program | Promote speed-feature education
+2452-YSJTJ,0.0059,0,"No online security, No tech support",Standard engagement; invite referral program
+2454-GIKVC,0.6625,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+1612-ADOQC,0.4503,0,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+5008-TQHMJ,0.7055,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+9355-VKYRV,0.4487,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+6275-IPCHW,0.6095,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7296-NBQWF,0.6519,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5263-KSZEV,0.2943,0,No online security,Standard engagement; invite referral program
+7175-CYNJX,0.6793,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+5970-UIKNY,0.2808,0,"No online security, No tech support",Standard engagement; invite referral program
+2058-EXHPE,0.6007,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3266-LWQJY,0.7292,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9002-YOCZR,0.8491,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+7558-PIQQB,0.4839,0,Short contract,Education-series emails (how-to tips)
+4788-TMQZZ,0.5035,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+1237-NXFCB,0.6035,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7274-RSPLG,0.4305,0,"Short contract, Electronic check, No tech support",Education-series emails (how-to tips)
+3794-VZCVV,0.7072,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8871-FDUNL,0.2595,0,No online security,Standard engagement; invite referral program
+9045-CRNPL,0.5835,1,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+9276-OSVQQ,0.211,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+8281-EWCAW,0.6441,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+8512-VTBJH,0.1619,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+8195-FJZHR,0.559,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+4026-KFMQN,0.4871,0,"Electronic check, No online security",Education-series emails (how-to tips)
+6430-RIFJM,0.5806,1,"Short contract, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+1622-QNERV,0.4205,0,—,Education-series emails (how-to tips) | Promote speed-feature education
+6501-FJVEY,0.6064,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+1595-TCIVK,0.2049,0,No tech support,Standard engagement; invite referral program
+7171-IDYAL,0.2036,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1064-CHCKV,0.3354,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7343-FZOEH,0.5119,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+7607-NJGQJ,0.5519,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1368-SLOGN,0.2684,0,"Short contract, Electronic check",Standard engagement; invite referral program
+5471-IIXOJ,0.6508,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+3939-KPVCH,0.3353,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+8681-QAZVI,0.7157,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9943-QSZYQ,0.5717,1,"Electronic check, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+4757-AHJFJ,0.4076,0,—,Education-series emails (how-to tips)
+2124-CMSKI,0.8476,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+3650-OEDFB,0.807,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+7332-GEDKR,0.6776,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+9611-DRRPF,0.0872,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+2506-ZZPYU,0.521,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+6907-ELWGZ,0.2723,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1894-TSVIU,0.8257,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users
+8550-GFTET,0.4763,0,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+9615-BDMJT,0.8444,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+1545-SYUAA,0.4195,0,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+6620-ZXMBJ,0.8157,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+1261-AAFXL,0.2829,0,No online security,Standard engagement; invite referral program
+4867-WVDBJ,0.057,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+2063-SCIRN,0.2391,0,"Short contract, No tech support",Standard engagement; invite referral program
+5130-UUEUJ,0.8726,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+4121-XQLGU,0.4964,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+5950-VFDCX,0.5577,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+2468-KZRNK,0.4069,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+1024-VVIAY,0.5373,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+5278-TRJOU,0.6785,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+2563-LKHTF,0.4977,0,"Short contract, Electronic check",Education-series emails (how-to tips)
+9299-YELEA,0.5112,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+5549-NJUTM,0.3905,0,"Electronic check, No online security",Standard engagement; invite referral program
+6702-USMEJ,0.3654,0,"Electronic check, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+8403-SVVWT,0.3569,0,"Short contract, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+8398-HOZJI,0.6525,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+7763-DLLAJ,0.4301,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+5786-TMWJS,0.2068,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+4999-UDGZB,0.2788,0,"Electronic check, No online security",Standard engagement; invite referral program
+5062-HSQCI,0.8847,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+9013-VHGPQ,0.2002,0,"No online security, No tech support",Standard engagement; invite referral program
+2841-ESOWZ,0.2849,0,"Electronic check, No tech support",Standard engagement; invite referral program
+4754-GYQXJ,0.0321,0,"No online security, No tech support",Standard engagement; invite referral program
+7488-OXZKY,0.3839,0,"Electronic check, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+9765-BJUIV,0.3802,0,—,Standard engagement; invite referral program | Promote speed-feature education
+5178-FAFRF,0.5421,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+3129-UNSPY,0.1514,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6764-KUODL,0.1598,0,"No online security, No tech support",Standard engagement; invite referral program
+3364-CXYXF,0.424,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+8779-NFBZW,0.1159,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+8138-VHLQY,0.8178,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+8726-DIDXC,0.0302,0,"No online security, No tech support",Standard engagement; invite referral program
+5336-ELXXE,0.2174,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7447-LDNOV,0.1284,0,"No online security, No tech support",Standard engagement; invite referral program
+5742-YKOEO,0.8172,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+4509-GOOKU,0.1765,0,"Short contract, Electronic check, No tech support",Standard engagement; invite referral program
+9977-MFQVN,0.5126,1,"Short contract, No online security",Education-series emails (how-to tips)
+2416-WNQLX,0.393,0,"No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users | Promote speed-feature education
+7932-GMLAD,0.6692,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4676-EOCCY,0.2422,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+3623-HLBYJ,0.6696,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1544-EWVDP,0.0856,0,"Electronic check, No tech support",Standard engagement; invite referral program
+5558-GOILW,0.2638,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+9808-DBSYJ,0.1877,0,"No online security, No tech support",Standard engagement; invite referral program
+5205-RVMJL,0.0527,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9475-VTYLJ,0.2485,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1376-BZJZK,0.7847,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8778-KEOJJ,0.7627,1,"Short contract, Electronic check",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7927-ZVQZT,0.7802,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4774-ZEXQJ,0.7154,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+2817-HSSWK,0.2329,0,"No online security, No tech support",Standard engagement; invite referral program
+6482-IMJDI,0.3814,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+4837-EQVBC,0.1218,0,"Electronic check, No online security",Standard engagement; invite referral program
+4022-RSKIH,0.2667,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+2607-YPMOJ,0.0762,0,"No online security, No tech support",Standard engagement; invite referral program
+1009-JTMEN,0.3908,0,"Short contract, No online security",Standard engagement; invite referral program
+7860-VXLKR,0.7811,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7916-HLJLV,0.514,1,"Electronic check, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+9979-GMQRD,0.0607,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7375-ADUMQ,0.6934,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2736-WGREZ,0.0388,0,"No online security, No tech support",Standard engagement; invite referral program
+6904-NEABT,0.3055,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+9006-KVDRZ,0.7883,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8620-NJHNZ,0.5303,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+4737-SMQNJ,0.4822,0,"Short contract, No online security",Education-series emails (how-to tips)
+3548-PLAIZ,0.0678,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+7238-AXLMG,0.1535,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+6248-WDWBH,0.2359,0,"No online security, No tech support",Standard engagement; invite referral program
+2637-NINLO,0.4744,0,"Short contract, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+1149-XNYCN,0.2078,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+6748-NEMXJ,0.304,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6075-LLPTB,0.6354,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+3297-DSRPC,0.5915,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+2847-XWNHI,0.8441,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+1309-MWALE,0.0747,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+3435-NJKAN,0.6399,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+9500-ICVKQ,0.7926,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+5135-EIKRE,0.296,0,"Short contract, Electronic check, No tech support",Standard engagement; invite referral program
+6267-IBJXU,0.8456,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+7095-SLAGU,0.5715,1,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+9438-XVQNR,0.619,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+4759-ITAGF,0.1846,0,No online security,Standard engagement; invite referral program
+9334-UQKFS,0.489,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+1754-MKSLR,0.7115,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+1963-YZOZS,0.5246,1,"No online security, No tech support",Education-series emails (how-to tips)
+2455-HXAYE,0.7464,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1725-OAXGM,0.3993,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+5178-EIVDP,0.3907,0,"Short contract, Electronic check, No tech support",Standard engagement; invite referral program
+1686-VWSGC,0.7666,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+5212-AOZAM,0.5645,1,"Short contract, Electronic check",Education-series emails (how-to tips) | Promote speed-feature education
+2400-CBYYV,0.7693,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+4029-XSOJO,0.5614,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+2280-OIAFX,0.4172,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+6535-BVVCU,0.3681,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+7160-LWLUJ,0.1658,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+2614-WTWWC,0.3597,0,No online security,Standard engagement; invite referral program
+7608-GYYFF,0.1892,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+1771-EIUJC,0.4967,0,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+2442-NZDNS,0.7276,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+1961-TBXFE,0.7639,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7842-EXAVT,0.3111,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+4872-KBIYV,0.2919,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9053-CFQSG,0.5231,1,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+2648-FQUTL,0.6791,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3929-VGDMN,0.9229,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+8372-RRZWQ,0.4455,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+7380-LTMPZ,0.1143,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+4299-NXYGE,0.2589,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6619-RAPDF,0.7238,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5200-XXWVU,0.5257,1,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+6553-VUNGV,0.4331,0,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+2405-QWUWH,0.9002,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+5789-BTUPB,0.4539,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+3178-OWWYF,0.376,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+8307-CVBIJ,0.4135,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+7881-XNUYF,0.4007,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+8260-FFKAW,0.5746,1,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+6832-TGKRB,0.7643,1,"Electronic check, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+7060-TXHWX,0.0541,0,"No online security, No tech support",Standard engagement; invite referral program
+1701-JRWKO,0.7253,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+7366-ERLMK,0.6183,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6761-ZZUTR,0.3209,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+7232-WDNIL,0.0355,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6378-HDIVO,0.8469,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+7463-IIBEM,0.1624,0,No tech support,Standard engagement; invite referral program
+5420-MFJEF,0.455,0,"Electronic check, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+1202-CHBEQ,0.8342,1,"Electronic check, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+6908-WJEDH,0.235,0,"No online security, No tech support",Standard engagement; invite referral program
+1893-PVALS,0.7404,1,"Short contract, No online security, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+2495-QJWOF,0.5321,1,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+6907-GWQUB,0.0488,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7407-JHSJW,0.4353,0,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+9306-GBZYH,0.3469,0,"Short contract, No tech support",Standard engagement; invite referral program
+8081-FAJYS,0.6061,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+3788-ABOYS,0.5055,1,"Electronic check, No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+3305-OUOWU,0.8832,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+7124-VKTFU,0.1401,0,No tech support,Standard engagement; invite referral program
+3468-TBJYD,0.4554,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+8868-XJGNB,0.5074,1,"Short contract, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+8264-LNTYK,0.0639,0,"No online security, No tech support",Standard engagement; invite referral program
+5521-KYZFA,0.3628,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+8609-HKHFQ,0.0887,0,"No online security, No tech support",Standard engagement; invite referral program
+9506-ZPFQR,0.6668,1,"No online security, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+1452-XKMHD,0.4382,0,"No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+5196-DBMJE,0.3101,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5693-CHSMG,0.7837,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+4260-NXXZL,0.7168,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3939-UNPPE,0.6114,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+2891-MGNOD,0.6559,1,"No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6053-AFMXO,0.5747,1,"No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+6009-XUUPO,0.1761,0,"No online security, No tech support",Standard engagement; invite referral program
+2914-EEJJS,0.4581,0,"No online security, No tech support",Education-series emails (how-to tips)
+7886-OQKCX,0.4908,0,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+4376-LHDHO,0.0457,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9688-VBRFB,0.1982,0,No online security,Standard engagement; invite referral program | Promote speed-feature education
+1105-ZRAHC,0.1547,0,"No online security, No tech support",Standard engagement; invite referral program
+2078-PMLUY,0.7891,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+1016-JRIFY,0.5691,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+7023-PISWR,0.0077,0,"No online security, No tech support",Standard engagement; invite referral program
+9019-MHYWK,0.4265,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+6098-FZVAE,0.3001,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7655-GCGLB,0.1305,0,"No online security, No tech support",Standard engagement; invite referral program
+3438-CEWME,0.7766,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6665-AONAA,0.7222,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8447-CEZQS,0.6932,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7416-PYRJM,0.0456,0,No online security,Standard engagement; invite referral program
+6100-CLVQX,0.4269,0,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+8175-RTUFI,0.6893,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6972-CHGFX,0.3276,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+8767-AKAHE,0.1923,0,"No online security, No tech support",Standard engagement; invite referral program
+3327-PFBSH,0.502,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+6562-CVFPP,0.0933,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+7028-RDWDH,0.2175,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+4511-SCWPB,0.2757,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+8746-DEIKU,0.5312,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+8051-YLLXN,0.9021,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+9225-JTKXV,0.7248,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1154-SWEON,0.5464,1,"Short contract, No online security",Education-series emails (how-to tips)
+1411-UMBAC,0.468,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+6516-JSEPB,0.1233,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6185-NSPNP,0.4993,0,"Electronic check, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+4713-MIRJV,0.8061,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues
+2260-WAWMZ,0.7611,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1237-MAQSP,0.6213,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+8085-HHTAG,0.6851,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+1325-TOJFB,0.5622,1,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+2755-WJELY,0.3711,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+5017-BARXF,0.6672,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9828-BBVGG,0.4602,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+7395-JCZCY,0.3021,0,"Short contract, No online security",Standard engagement; invite referral program | Promote speed-feature education
+5301-LEWMZ,0.6658,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+3904-LJRRM,0.6396,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+7131-NPMFC,0.4153,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+3896-NGJRG,0.3567,0,No online security,Standard engagement; invite referral program | Promote speed-feature education
+8054-WIGMJ,0.5524,1,"Short contract, Electronic check, No tech support",Education-series emails (how-to tips)
+5980-IBBMO,0.5906,1,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+1620-BYUTD,0.8112,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+3069-EWRBI,0.4351,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+7390-RYNCD,0.5547,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+5862-ZDBPK,0.4281,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+1855-NPVPK,0.204,0,No online security,Standard engagement; invite referral program
+6005-IBRUO,0.5857,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+5265-DHSKB,0.5585,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+1173-RAZTN,0.858,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+9901-KVQNU,0.2618,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+5794-DAIHM,0.8962,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+3817-JWKSJ,0.7636,1,"Short contract, No online security, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+2815-XXQTB,0.1726,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+3579-XCIXA,0.31,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6321-CBHRM,0.0839,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1776-AONLJ,0.4272,0,"No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+4491-WTNEB,0.136,0,"No online security, No tech support",Standard engagement; invite referral program
+5663-FVMGN,0.6063,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3352-FYQNS,0.7541,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6740-ZKUGM,0.2475,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+9659-AOZXQ,0.4185,0,"Short contract, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+8884-CNMHD,0.2312,0,No online security,Standard engagement; invite referral program
+3791-DITOM,0.3566,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+4933-PPECK,0.2143,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6669-NTAXJ,0.0864,0,—,Standard engagement; invite referral program | Promote speed-feature education
+7340-UKJAV,0.8643,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+9774-AVPWM,0.3249,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+4986-LMUPX,0.5897,1,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+7654-ZSFRI,0.5391,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+9413-LIWPP,0.3064,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1497-RCITU,0.2938,0,"Short contract, No online security",Standard engagement; invite referral program
+5513-RSDGB,0.375,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6116-JEWSQ,0.6916,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6225-LBVVM,0.7308,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8526-LECRW,0.1212,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+5548-JLNQW,0.5181,1,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3630-MUFYE,0.3931,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+9766-HHXXU,0.4599,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips)
+9722-BSKJL,0.4022,0,"Short contract, No tech support",Education-series emails (how-to tips)
+4740-MKPYC,0.565,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+7670-BYDEZ,0.7911,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+7454-ZGNNO,0.2988,0,Short contract,Standard engagement; invite referral program | Promote speed-feature education
+3833-TXJDD,0.3366,0,"No online security, No tech support",Standard engagement; invite referral program
+2435-LEMPF,0.3713,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9899-BBLLH,0.1873,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+1114-QLAIC,0.1035,0,"No online security, No tech support",Standard engagement; invite referral program
+2829-EZQMO,0.5734,1,"Short contract, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+5494-LBNSE,0.2354,0,"No online security, No tech support",Standard engagement; invite referral program
+6142-PPWAM,0.231,0,"No online security, No tech support",Standard engagement; invite referral program
+8830-OXFKJ,0.58,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+8718-BAPWH,0.2987,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+5741-EBJMT,0.3212,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5315-UZYMA,0.8637,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+1577-TMIHN,0.6434,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4911-LJUUQ,0.7026,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+8762-PQXSA,0.8445,1,"Short contract, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+7907-VAVAP,0.3423,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+9726-ESLZD,0.7033,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+1300-VXIVT,0.6142,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+7664-FMMFM,0.5937,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+2872-WPDGN,0.1182,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+8667-MNYIT,0.7321,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7552-JRKBF,0.3565,0,"Short contract, No tech support",Standard engagement; invite referral program
+6195-NVLYX,0.5194,1,"Short contract, No tech support",Education-series emails (how-to tips)
+9928-CMQWS,0.268,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+1033-SHLRG,0.2959,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+1677-TSJEA,0.6187,1,"Short contract, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+4148-QZJKJ,0.0706,0,"No online security, No tech support",Standard engagement; invite referral program
+7592-WWRBI,0.158,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5321-DQNWI,0.0624,0,No online security,Standard engagement; invite referral program
+9574-EZMNK,0.0674,0,"No online security, No tech support",Standard engagement; invite referral program
+6279-TNYAZ,0.2141,0,"No online security, No tech support",Standard engagement; invite referral program
+9903-YZGBU,0.8328,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+5098-EKQZU,0.5944,1,"Short contract, No tech support",Education-series emails (how-to tips)
+8782-AAQZO,0.7333,1,"Electronic check, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+7049-CAIXN,0.3356,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7107-IIJTN,0.2028,0,"No online security, No tech support",Standard engagement; invite referral program
+8928-RTSIO,0.7282,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+9270-CMLZP,0.3794,0,"Electronic check, No online security, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users | Promote speed-feature education
+5846-ABBZX,0.7005,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+3507-UUODP,0.3198,0,"No online security, No tech support",Standard engagement; invite referral program
+1677-XKCNI,0.4983,0,"Short contract, Electronic check, No tech support",Education-series emails (how-to tips)
+6595-JVFSW,0.0336,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6596-ZKUZX,0.2825,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+3557-WLQIF,0.5031,1,"No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+7050-OQMXA,0.1687,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+4423-TRDND,0.2723,0,"Electronic check, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+7345-KOLMJ,0.6437,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+1524-DLQZJ,0.3364,0,No tech support,Standard engagement; invite referral program
+2844-IEVAX,0.3392,0,"Electronic check, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+8465-VYBPC,0.6132,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+4263-NCFHQ,0.1098,0,"No online security, No tech support",Standard engagement; invite referral program
+6035-QTTNN,0.8683,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+1078-EBMNE,0.2822,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+9973-WUEEG,0.0517,0,"No online security, No tech support",Standard engagement; invite referral program
+1985-DJMSZ,0.8295,1,"Short contract, Electronic check, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+6580-FZOVD,0.1696,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6679-CHYTG,0.6353,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2925-WUQLD,0.8172,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+4928-YZKOT,0.1595,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6577-MBWMC,0.1003,0,"Electronic check, No online security",Standard engagement; invite referral program
+9846-ZRWTB,0.1262,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5141-XDAVS,0.5775,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+9647-VOGTO,0.3775,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6506-NIQSI,0.319,0,No online security,Standard engagement; invite referral program | Promote speed-feature education
+8519-HIAJK,0.2184,0,No tech support,Standard engagement; invite referral program
+6008-QQOWD,0.7439,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6510-MEPMY,0.3424,0,"Electronic check, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+4050-VFRBF,0.4141,0,Short contract,Education-series emails (how-to tips)
+5564-UNBMP,0.2782,0,"No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+7356-ZHMAI,0.7856,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9299-LSESC,0.4489,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+2877-YKFAM,0.4848,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+6551-FVIFD,0.1496,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+4665-SASWU,0.3006,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+8822-ZUJQB,0.7181,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4883-PBAII,0.2275,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9242-NTYFX,0.2917,0,"No online security, No tech support",Standard engagement; invite referral program
+5687-YTZFJ,0.3574,0,"Short contract, No online security",Standard engagement; invite referral program
+7260-XYTSU,0.8329,1,"Short contract, Electronic check, Very new customer",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+4844-FMOWR,0.2876,0,"Electronic check, No tech support",Standard engagement; invite referral program
+5880-REITY,0.4633,0,Electronic check,Education-series emails (how-to tips) | Promote speed-feature education
+3198-AFIOA,0.8188,1,"Electronic check, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+6477-HFJSN,0.4371,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+3419-NHKDE,0.0608,0,Electronic check,Standard engagement; invite referral program
+1801-ELRYA,0.0651,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+2222-WOOWR,0.6691,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8556-TEFWZ,0.8027,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+4240-HLFSC,0.4913,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+2129-TFICX,0.3531,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1625-FNTNT,0.8408,1,"Short contract, No online security, Very new customer",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+7959-JGIWA,0.0976,0,"No online security, No tech support",Standard engagement; invite referral program
+4138-WVWRQ,0.298,0,"No online security, No tech support",Standard engagement; invite referral program
+2890-ANHFA,0.094,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+5260-NVRLX,0.7819,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8275-XCKTT,0.4675,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+8223-SZPND,0.032,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5194-YIDYP,0.8121,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+6487-XAQQL,0.288,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+8102-ABORM,0.2014,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+5669-HZQAY,0.177,0,No tech support,Standard engagement; invite referral program
+8784-YSOVD,0.5846,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3332-AWUYA,0.5501,1,"Short contract, No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+9592-JZAZQ,0.3362,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+7340-BZETE,0.4895,0,"Short contract, No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+4871-FHVTK,0.3678,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+5086-ZBCHC,0.1152,0,"No online security, No tech support",Standard engagement; invite referral program
+2610-NFCYY,0.0608,0,—,Standard engagement; invite referral program | Promote speed-feature education
+8762-VBEIS,0.215,0,"No online security, No tech support",Standard engagement; invite referral program
+5443-ZHFDR,0.7565,1,"Short contract, No online security, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+8301-VLWUG,0.3577,0,Short contract,Standard engagement; invite referral program
+4745-EBFHL,0.4308,0,"No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+7669-XDUQP,0.4746,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+9670-PTQID,0.6711,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3466-FIOWS,0.6632,1,"No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1307-SXCHB,0.229,0,"No online security, No tech support",Standard engagement; invite referral program
+6755-YSUHU,0.3313,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+4544-OBFQN,0.7398,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1107-XMZLU,0.3314,0,"Short contract, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+4256-UPRWT,0.8638,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+8784-MNTOC,0.1607,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+1982-IDMDU,0.8212,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+5221-HLBLJ,0.6958,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4163-PIRZI,0.5844,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1565-FOOUS,0.2575,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+4725-GOSIT,0.858,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+2192-ICUUX,0.5598,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+4188-IAWOY,0.213,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+2011-YSCVU,0.7444,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9949-CRYFG,0.5049,1,Very new customer,Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+3210-BMFSP,0.7396,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3574-RGRBS,0.273,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+2546-ITKGP,0.6735,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+9850-KBTNE,0.9243,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+2055-GSPPH,0.3862,0,—,Standard engagement; invite referral program | Promote speed-feature education
+1479-HFRTT,0.609,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+7270-OECBM,0.0268,0,"No online security, No tech support",Standard engagement; invite referral program
+9843-XDRAW,0.0555,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+7691-ADQTR,0.105,0,"No online security, No tech support",Standard engagement; invite referral program
+6272-EGWJZ,0.7653,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2105-TASVH,0.7122,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2109-PKHXB,0.1371,0,"No online security, No tech support",Standard engagement; invite referral program
+1138-RNDLR,0.4104,0,"Electronic check, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+4822-MZRUK,0.6422,1,"No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+8455-AQTSA,0.1699,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+2619-PULBC,0.346,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+1827-CSLNS,0.4441,0,"Electronic check, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+8453-YJIBY,0.4625,0,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3992-MZAJS,0.0356,0,"Electronic check, No tech support",Standard engagement; invite referral program
+2465-OHIMN,0.5675,1,"Short contract, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+6871-ECGAV,0.2523,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+8161-UTGPE,0.4562,0,—,Education-series emails (how-to tips) | Promote speed-feature education
+3096-LYOJS,0.6382,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+9140-GAENK,0.2132,0,No tech support,Standard engagement; invite referral program
+3557-WPACR,0.5751,1,"Electronic check, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+2347-TLLFR,0.5622,1,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+9497-SOEXM,0.681,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7067-UPLTU,0.694,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+4033-TEIJU,0.4456,0,"Short contract, No online security",Education-series emails (how-to tips)
+7986-KXAQM,0.4672,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+4726-KNYDJ,0.0119,0,"No online security, No tech support",Standard engagement; invite referral program
+7816-IBZPU,0.4185,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+2018-GSTLP,0.8168,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+3943-IWAIG,0.169,0,No tech support,Standard engagement; invite referral program
+4278-WQEFL,0.2119,0,"No online security, No tech support",Standard engagement; invite referral program
+2463-AJKIT,0.5028,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+3935-ZCUJQ,0.8545,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+6731-FHZAA,0.5283,1,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+5913-YOKFJ,0.5109,1,"Short contract, No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+1174-FMMGT,0.3917,0,"No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users | Promote speed-feature education
+5707-IRFEP,0.1182,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5244-VVYHX,0.1884,0,"No online security, No tech support",Standard engagement; invite referral program
+4343-BLCJL,0.7101,1,"Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2888-KUKVE,0.1093,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+8089-AFZOQ,0.4521,0,"Short contract, No online security",Education-series emails (how-to tips)
+9410-RFCXO,0.0515,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1123-AFGVM,0.4952,0,"Short contract, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+7944-LQUSY,0.785,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4723-LUDFG,0.4074,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+4777-JJAYB,0.2836,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+6943-DHBSA,0.0938,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+7155-SZWYX,0.8729,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+7907-ONUUY,0.1383,0,"No online security, No tech support",Standard engagement; invite referral program
+7404-KNFNA,0.2915,0,"No online security, No tech support",Standard engagement; invite referral program
+5313-OISQN,0.8521,1,"Short contract, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+7919-EBTCB,0.854,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+1397-BNPKN,0.3223,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+5194-NFFKF,0.4093,0,"Short contract, No tech support",Education-series emails (how-to tips)
+8288-EJKLF,0.1879,0,Very new customer,Standard engagement; invite referral program | Welcome concierge for new users
+6484-NSAGS,0.2403,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+6535-GCDOO,0.2429,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+5179-GOLSL,0.3746,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+6292-XKAOJ,0.3942,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+2275-RPDVJ,0.7903,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+7276-XNDZF,0.4074,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+6538-WPAAZ,0.9307,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+9311-LLLIL,0.5978,1,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+8026-HNWUP,0.3049,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+4914-ZEVSH,0.3436,0,"Short contract, Electronic check",Standard engagement; invite referral program
+5084-UKPYI,0.32,0,"Short contract, No online security",Standard engagement; invite referral program
+2043-YTMJW,0.3297,0,—,Standard engagement; invite referral program | Promote speed-feature education
+4674-SMCPT,0.1136,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+8719-COYSA,0.8371,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+3128-XODRX,0.8923,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+3823-NYYJC,0.4211,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+6708-CZGJF,0.2046,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+2966-XZYTK,0.447,0,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+3730-NFGQD,0.6535,1,"No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7753-GVRYJ,0.6483,1,"Short contract, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+9056-SQNDX,0.6438,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7921-BXGKV,0.5756,1,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1138-JZNAQ,0.1351,0,"No online security, No tech support",Standard engagement; invite referral program
+6846-UNWGY,0.3065,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+2730-LHGVJ,0.4636,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+3863-BDLCZ,0.2106,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+4917-HFONL,0.7624,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5179-LTNZD,0.3383,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+1150-GUDJL,0.773,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1477-CFYOM,0.8034,1,"Electronic check, No tech support, Very new customer",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+8364-ZCRQZ,0.1372,0,No tech support,Standard engagement; invite referral program
+2711-CBWJY,0.3357,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+8048-SEFSP,0.8083,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+8197-DBLKN,0.6117,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+2049-UVYKY,0.3283,0,"No online security, No tech support",Standard engagement; invite referral program
+6820-YZLSF,0.725,1,"Short contract, No online security, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+3934-WXVQJ,0.3185,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program | Promote speed-feature education
+3518-LYQFK,0.4956,0,"Short contract, Electronic check, No tech support",Education-series emails (how-to tips)
+7125-WBTCZ,0.7052,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8185-UZTMD,0.7871,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6414-KYHNU,0.246,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+1238-CZACI,0.6957,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+8299-NNQHJ,0.2642,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+2117-ADLAI,0.5393,1,"Short contract, Electronic check, No tech support",Education-series emails (how-to tips)
+5293-SGHDU,0.626,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+5397-KYADF,0.5956,1,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+8331-NSNRH,0.125,0,No tech support,Standard engagement; invite referral program
+3387-BBDZE,0.5723,1,"Electronic check, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+9207-LOPKM,0.674,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+2979-ERBPM,0.5054,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips)
+9188-NBPYP,0.7185,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+6534-AKPYO,0.2844,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9385-TPANF,0.7746,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7125-WKSMG,0.716,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7013-FWFRO,0.8225,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+4510-NDBXM,0.7219,1,"Short contract, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+9687-TKUNJ,0.5854,1,"Electronic check, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+7202-HKXXO,0.749,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5838-QXISZ,0.2515,0,"Electronic check, No online security",Standard engagement; invite referral program
+8424-TWAOJ,0.187,0,"Electronic check, No online security",Standard engagement; invite referral program
+8710-KAHSR,0.5019,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+3580-EECBK,0.3452,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+1711-NAWLL,0.2845,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+2971-ZOGWJ,0.0906,0,"No online security, No tech support",Standard engagement; invite referral program
+2356-PRGMJ,0.0686,0,"No online security, No tech support",Standard engagement; invite referral program
+5601-RMXBX,0.8291,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+2942-SLWOT,0.3025,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+4396-OSJHF,0.3137,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6364-CJCBC,0.2385,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+6938-EOBGJ,0.6023,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+5016-HRIAS,0.3319,0,No online security,Standard engagement; invite referral program
+4459-VKBWJ,0.6049,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+7996-LMNSV,0.3499,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+4269-QSUMP,0.3365,0,"Electronic check, No online security",Standard engagement; invite referral program | Promote speed-feature education
+1749-PCOYU,0.7381,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1284-TSRWX,0.6519,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+7113-YDLNK,0.3407,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6506-EPAPI,0.2507,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+1195-BLPAD,0.1153,0,No tech support,Standard engagement; invite referral program
+6203-GGCQZ,0.5435,1,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+4492-KCJAO,0.2671,0,"Short contract, No tech support",Standard engagement; invite referral program
+6952-SPHKG,0.8272,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+8223-MUCYK,0.5663,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+3511-NRSOW,0.5993,1,"Short contract, Electronic check, No tech support",Education-series emails (how-to tips)
+5368-SSFQZ,0.5657,1,"Short contract, No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+7023-SAKIA,0.4157,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+5829-TOYGQ,0.0257,0,No tech support,Standard engagement; invite referral program
+9262-AGVZH,0.3024,0,No online security,Standard engagement; invite referral program | Promote speed-feature education
+3778-LXNSA,0.3418,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program | Promote speed-feature education
+3002-IETVY,0.778,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+8597-FKETK,0.4914,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+6832-YTGHD,0.5059,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3264-BYIJQ,0.749,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+9032-RLETF,0.069,0,"No online security, No tech support",Standard engagement; invite referral program
+1435-MHTWQ,0.6269,1,Short contract,Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8773-MBJKF,0.8465,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+1408-VTOBE,0.6353,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+3208-PLRLV,0.4424,0,No online security,Education-series emails (how-to tips)
+6961-CYMWK,0.4202,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+5948-SOCRX,0.239,0,"Short contract, No tech support",Standard engagement; invite referral program
+9594-JAGXT,0.1268,0,"Electronic check, No tech support",Standard engagement; invite referral program
+6459-ETGZN,0.424,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+9855-WBGIH,0.5827,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+1263-BSHBX,0.1059,0,—,Standard engagement; invite referral program | Promote speed-feature education
+6414-PEMCO,0.5238,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+6445-PYYLU,0.4979,0,"Electronic check, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+3957-CWEGJ,0.2131,0,—,Standard engagement; invite referral program | Promote speed-feature education
+3925-MUUDJ,0.5625,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+5683-YNTMB,0.3238,0,"Short contract, No tech support",Standard engagement; invite referral program
+5639-YZQBB,0.4983,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+6036-AAVQU,0.6575,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+8739-QYLGA,0.5722,1,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+7695-SXIVJ,0.3872,0,Electronic check,Standard engagement; invite referral program | Promote speed-feature education
+1281-VZOPL,0.2053,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6943-SYYSX,0.8451,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+2529-ZPDNF,0.1521,0,"No online security, No tech support",Standard engagement; invite referral program
+3943-JOEOI,0.626,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5016-TFYNL,0.3515,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+2245-IPHTG,0.1937,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+1028-MWJEN,0.2378,0,"No online security, No tech support",Standard engagement; invite referral program
+8006-AXGNB,0.7035,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2831-TAVKU,0.9259,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+7212-QDAGA,0.4712,0,"Short contract, No tech support",Education-series emails (how-to tips)
+7209-MNTUX,0.5297,1,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+8862-RTWTO,0.1283,0,No online security,Standard engagement; invite referral program
+4748-GHUUT,0.7198,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+5512-UXUKL,0.37,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+7685-NCPNU,0.0974,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+2050-PJNQV,0.0936,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+3021-WZJMJ,0.2029,0,"No online security, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+3597-EKQUE,0.6209,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+9561-ELRSB,0.2108,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+4754-GAQPK,0.3332,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1732-HLNXQ,0.5212,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3231-ENIIB,0.0331,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5453-KFSYZ,0.2246,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+1143-MDXIU,0.2555,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+3539-QZXWA,0.8767,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+6369-OVOBC,0.4074,0,"Electronic check, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+7313-XLEMB,0.0873,0,—,Standard engagement; invite referral program
+4394-ZBTUI,0.2445,0,"No online security, No tech support",Standard engagement; invite referral program
+8048-QALJZ,0.2498,0,"Short contract, No online security",Standard engagement; invite referral program
+5864-KGTMZ,0.2552,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+4370-KBDHR,0.3197,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6541-DWGST,0.9164,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+3706-CWLHP,0.2635,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+6071-DFVGV,0.666,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+3274-LWOEZ,0.3958,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program | Promote speed-feature education
+7602-TTDXU,0.6459,1,"Short contract, No online security, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+5246-ZTSGD,0.1761,0,No tech support,Standard engagement; invite referral program
+3469-AXENE,0.5657,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+8737-SXQOC,0.8075,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+3746-GAOZA,0.3395,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+5437-XJRLK,0.8576,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+9606-UFMIY,0.3116,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+4675-NYDMT,0.1907,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+4183-RJHUI,0.3145,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+3196-ONTYV,0.3969,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users | Promote speed-feature education
+4357-OAIDU,0.5152,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+2143-WZWYX,0.5199,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+5641-YHOKF,0.4445,0,"No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+3331-FSRGC,0.6531,1,"Short contract, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+7028-VRILP,0.3118,0,"No online security, No tech support",Standard engagement; invite referral program
+2165-DXDNK,0.8205,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+9030-CSHMW,0.7298,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6387-THGEL,0.4466,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+7629-TKYFS,0.58,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+8240-VHWWF,0.5926,1,"No online security, No tech support",Education-series emails (how-to tips)
+6278-UVZRJ,0.5907,1,—,Education-series emails (how-to tips) | Promote speed-feature education
+9708-YSIDT,0.0335,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+9525-DEVYD,0.1195,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+7134-ZLGOP,0.5891,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+9838-YGDVN,0.6898,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3000-SULYL,0.113,0,"No online security, No tech support",Standard engagement; invite referral program
+5448-CVJXY,0.2514,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+7621-IJMHC,0.6518,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5818-PNIXX,0.8679,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+2424-CBMFU,0.5416,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1584-KLHKY,0.5769,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+5572-VONPQ,0.1767,0,No online security,Standard engagement; invite referral program
+8023-XUXDO,0.6565,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9536-SDNSO,0.6033,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+8148-UVZKJ,0.4722,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+2271-YTIAP,0.3019,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+3816-SCAVI,0.4483,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+5386-FHXOV,0.797,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5177-WAMRI,0.5286,1,"No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+9351-BLXNZ,0.2945,0,No online security,Standard engagement; invite referral program | Promote speed-feature education
+8848-NRKSN,0.2866,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6091-UFITN,0.5147,1,Very new customer,Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+9181-VHYAM,0.0745,0,"No online security, No tech support",Standard engagement; invite referral program
+4859-YXMZO,0.7074,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4788-XJRDI,0.2475,0,Electronic check,Standard engagement; invite referral program | Promote speed-feature education
+7807-EFNAX,0.8466,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+8344-DAUTQ,0.724,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9311-BUWAX,0.6807,1,"Short contract, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+6091-RWDIH,0.2698,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+9197-KEZDM,0.3936,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+9877-XHZMO,0.5472,1,"No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+8461-CAFNT,0.3958,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+8338-YBBLV,0.1526,0,Short contract,Standard engagement; invite referral program | Promote speed-feature education
+6646-FQDNP,0.4515,0,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+2707-YOJKO,0.4786,0,Short contract,Education-series emails (how-to tips)
+9785-BOBRD,0.402,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+5905-YEXPN,0.3817,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+6978-YGYUF,0.5208,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+9146-NYMGI,0.4175,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1387-XVNVW,0.7719,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+3924-YNJTL,0.3916,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+1126-AIUQL,0.3225,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5561-LTDMR,0.3122,0,"Electronic check, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+5011-WXMEQ,0.2554,0,"Short contract, Electronic check, No tech support",Standard engagement; invite referral program
+3051-CPZKT,0.4446,0,"No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+7454-JQYUK,0.1378,0,"No online security, No tech support",Standard engagement; invite referral program
+6889-LYGWV,0.3183,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+2989-QCLTJ,0.4779,0,No tech support,Education-series emails (how-to tips)
+1585-OZSUV,0.3238,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+9855-KKWCC,0.3526,0,"Short contract, No online security",Standard engagement; invite referral program | Promote speed-feature education
+6614-RKBVO,0.8345,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues
+7088-EFKKR,0.4513,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+5296-TTWND,0.4101,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+2493-RCFMH,0.3697,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+5743-OPRLV,0.6099,1,"Short contract, Electronic check",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+8703-ELRQV,0.103,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+2228-OSSJM,0.4343,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+6499-TLEBH,0.6657,1,"Short contract, No online security, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+9601-LDOYQ,0.352,0,"No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users | Promote speed-feature education
+9175-AQYAU,0.4253,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+2152-FDDJK,0.0113,0,No tech support,Standard engagement; invite referral program
+7359-NCYLJ,0.6896,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+2368-LZBPO,0.3781,0,Electronic check,Standard engagement; invite referral program
+1166-NIWCD,0.5847,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+4064-ZYURY,0.3082,0,"No online security, No tech support",Standard engagement; invite referral program
+3269-JSQVZ,0.5951,1,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3154-NBJMZ,0.6558,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4532-EOKIN,0.5202,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+6699-FUZGH,0.0644,0,"No online security, No tech support",Standard engagement; invite referral program
+2725-NKZDZ,0.1713,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9075-PQTOK,0.6532,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+9095-NSMAF,0.3473,0,"Short contract, No online security",Standard engagement; invite referral program
+5614-FKOUN,0.3382,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+1866-VLGKZ,0.8698,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+8720-NVDTC,0.6263,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+2035-LGCZX,0.116,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+8807-LOTWD,0.7759,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+3689-TAAOB,0.122,0,"Electronic check, No tech support",Standard engagement; invite referral program
+5941-YUIOZ,0.2627,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program | Promote speed-feature education
+8855-HQYTD,0.3167,0,"Electronic check, No online security, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+3190-QFFSO,0.202,0,"Electronic check, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+8238-JCUYZ,0.3326,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+7157-EBZSO,0.44,0,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1376-RFKQW,0.5295,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+8839-ISYPO,0.5915,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+2381-QBEXS,0.4902,0,"No online security, No tech support",Education-series emails (how-to tips)
+3078-PIMXG,0.8651,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+2507-EEQPM,0.3246,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+2146-VGNYR,0.3401,0,"Short contract, No online security",Standard engagement; invite referral program | Promote speed-feature education
+1174-VSSLK,0.8032,1,"Short contract, No online security, Very new customer",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+4325-KGJSA,0.3443,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7027-IHOQG,0.4409,0,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3235-FJFOK,0.2563,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+7246-XYCFM,0.6341,1,"No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5343-DNWZN,0.5847,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+6700-YMKXZ,0.2809,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+5700-TWLLN,0.6324,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7431-DDVOR,0.8215,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+7421-NWYXT,0.6983,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6184-XKINY,0.4809,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+3623-UPEWE,0.0224,0,"No online security, No tech support",Standard engagement; invite referral program
+3634-KPWHM,0.2065,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+1311-WQZCI,0.4495,0,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1515-GQMIR,0.7467,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8144-DGWJB,0.2144,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+9807-UQOHZ,0.1447,0,"Electronic check, No tech support",Standard engagement; invite referral program
+6178-QIGJW,0.1183,0,"Short contract, No online security",Standard engagement; invite referral program
+9468-FNLHX,0.5123,1,Short contract,Education-series emails (how-to tips)
+4036-XLEGB,0.7024,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+2198-FOLQC,0.6773,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7106-TUGRM,0.4164,0,—,Education-series emails (how-to tips) | Promote speed-feature education
+5971-NVEAX,0.4472,0,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+5789-EOIUD,0.7013,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9877-NBXUB,0.1837,0,"No online security, No tech support",Standard engagement; invite referral program
+7777-YHPGC,0.5643,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+5556-RBWOY,0.7105,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+3607-KTAFB,0.2563,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+5001-IAXRX,0.752,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+1482-GNUET,0.7888,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6341-OYEDX,0.1956,0,"Short contract, Electronic check",Standard engagement; invite referral program
+4689-QDKCL,0.2698,0,"No online security, No tech support",Standard engagement; invite referral program
+2464-RYPWL,0.5879,1,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+4705-WVLCR,0.3351,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+8651-CWJDY,0.5517,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+4672-ZWEBE,0.4252,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+8126-TKVOH,0.4556,0,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+7520-WHESA,0.7803,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5721-TCLMV,0.3574,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+8931-DBPXP,0.8433,1,"Short contract, Electronic check, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+6918-BCPVP,0.6145,1,"No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4994-GMGZG,0.2345,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7704-COOXM,0.1184,0,No tech support,Standard engagement; invite referral program
+9273-JYYVM,0.7409,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7389-UZYXI,0.1594,0,No tech support,Standard engagement; invite referral program
+4413-TWJOQ,0.4914,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+7951-RZNJY,0.5416,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+4311-SXMDB,0.5657,1,"Short contract, Electronic check, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3782-WFKST,0.4797,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+4443-XARNG,0.7664,1,"Short contract, Electronic check, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+8392-FZMDX,0.286,0,"Short contract, No online security",Standard engagement; invite referral program
+4821-VWVSB,0.2421,0,"No online security, No tech support",Standard engagement; invite referral program
+2275-QRBFU,0.8752,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+2938-DHFAX,0.2247,0,"No online security, No tech support",Standard engagement; invite referral program
+7892-ROFBF,0.2245,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9159-NJJUF,0.5622,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+7884-BQULD,0.0376,0,"No online security, No tech support",Standard engagement; invite referral program
+7357-CFIOD,0.2264,0,"No online security, No tech support",Standard engagement; invite referral program
+5910-WYXEI,0.5608,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Welcome concierge for new users
+5508-IPQJF,0.3795,0,"Short contract, No tech support",Standard engagement; invite referral program
+6481-KRFRM,0.7794,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+5716-MWVBC,0.0444,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+8015-BIUWZ,0.6949,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3906-IQEKW,0.2287,0,"No online security, No tech support",Standard engagement; invite referral program
+5435-MCNYI,0.2492,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+2248-KPOTA,0.4533,0,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+1956-UQFDX,0.7354,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1129-RSMPU,0.7354,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+4458-YTIGM,0.3264,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+1542-CHLXF,0.6323,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+4196-KJTCC,0.6675,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6371-LNATL,0.8744,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+1249-YOEUF,0.3106,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+7409-QAMLG,0.0796,0,"No online security, No tech support",Standard engagement; invite referral program
+4051-HLIBL,0.3969,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+7483-GOEZZ,0.2477,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+4066-DHNNO,0.7124,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4689-CIEDU,0.5409,1,"Short contract, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+2849-HLFJK,0.1242,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+7958-WXFEY,0.7828,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7761-JVZIC,0.1928,0,"No online security, No tech support",Standard engagement; invite referral program
+7786-GGPKV,0.8727,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+6279-JYTEG,0.3059,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+6881-GFLDW,0.7634,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+7544-PRUFE,0.4422,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+3326-WNUGM,0.4168,0,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+6647-JHPGG,0.4361,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+1220-WVQJG,0.0469,0,"No online security, No tech support",Standard engagement; invite referral program
+1639-GJNGZ,0.3457,0,"Short contract, Electronic check",Standard engagement; invite referral program
+3417-RVPBU,0.4579,0,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+7231-PLBZJ,0.3942,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+6586-ADRUL,0.5245,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3461-KIQHB,0.2772,0,No online security,Standard engagement; invite referral program | Promote speed-feature education
+2796-DYIXV,0.1304,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+9626-HCGPO,0.3689,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+9998-XAUTM,0.7319,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+9011-DPJXX,0.2621,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6201-LIRFC,0.7383,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9167-ETMTH,0.8605,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+5033-WCXKA,0.2745,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+6814-TBGRK,0.3144,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+1179-OZOOC,0.0906,0,"No online security, No tech support",Standard engagement; invite referral program
+7904-IAIXR,0.0993,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+1241-FFKVM,0.4034,0,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1752-BTTWL,0.7247,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+9276-XSWMU,0.6178,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+9158-KXOCB,0.0718,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+2525-GDRER,0.9114,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+3214-LFENO,0.3293,0,"Short contract, No online security",Standard engagement; invite referral program
+9384-QMFZZ,0.3525,0,"No online security, No tech support",Standard engagement; invite referral program
+9741-DXMIT,0.7814,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3853-YLAEX,0.6361,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1618-BFAUS,0.2647,0,No online security,Standard engagement; invite referral program | Promote speed-feature education
+1478-XYYGK,0.7669,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+1030-JRMBB,0.3894,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Welcome concierge for new users
+1393-IYYWK,0.2307,0,"No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+5484-DYPYO,0.0976,0,No tech support,Standard engagement; invite referral program
+1424-NHYVP,0.7774,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6653-FKIKU,0.6541,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2305-UGINC,0.5119,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips) | Promote speed-feature education
+7663-DGYUW,0.7649,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4665-HQWXH,0.8097,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+1119-OHNME,0.2196,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+5214-QEMIT,0.7077,1,"Short contract, Electronic check",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1362-MLFDK,0.5511,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+7995-GJJMX,0.1106,0,"No online security, No tech support",Standard engagement; invite referral program
+4128-OZQJO,0.4749,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips)
+3374-GBOPG,0.4258,0,"No online security, No tech support",Education-series emails (how-to tips)
+8514-DITGJ,0.4638,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+9908-WFSWT,0.2471,0,"Short contract, Electronic check, No tech support",Standard engagement; invite referral program
+1320-BWTUB,0.3225,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+3365-MLJCV,0.0452,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+2044-VBLTY,0.5143,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+7219-FQYQJ,0.2141,0,"No online security, No tech support",Standard engagement; invite referral program
+6015-FKKTV,0.9011,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+4321-BJUPH,0.8703,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+3275-HGRJT,0.5914,1,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1025-NXTTX,0.7257,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+4832-RAATP,0.7461,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+9970-MLLFA,0.4129,0,"Electronic check, No online security, No tech support",Education-series emails (how-to tips)
+9752-KTNOK,0.7692,1,"Short contract, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+8461-OOPSR,0.2174,0,No online security,Standard engagement; invite referral program
+7164-PRAJH,0.0292,0,"No online security, No tech support",Standard engagement; invite referral program
+4325-XCGOD,0.1725,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+1105-ZJDXH,0.6507,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8139-QLMGA,0.7331,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2829-ZHIML,0.2595,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+9691-AZERO,0.3433,0,"Short contract, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+6134-KICUO,0.7147,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+1628-RDQRY,0.5655,1,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+9843-XCTQR,0.2452,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+1304-ODXAI,0.7846,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+4730-OIQBX,0.2832,0,"Short contract, No tech support",Standard engagement; invite referral program
+4882-WJQAY,0.5609,1,"Electronic check, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+7258-HTLRL,0.8424,1,"Short contract, Electronic check, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+6884-HBYDJ,0.8314,1,"Short contract, Electronic check, No online security",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+8726-HZLWY,0.4678,0,"No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+3602-LDQJK,0.2544,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+2898-CKASB,0.5801,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3803-VXCSO,0.5604,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+3593-ZGINK,0.6228,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+5917-DHVCC,0.119,0,"No online security, No tech support",Standard engagement; invite referral program
+4577-BQQWI,0.375,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+7881-KIQZA,0.4102,0,"Short contract, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+2852-ARWPT,0.2899,0,No online security,Standard engagement; invite referral program
+9197-DZXXA,0.4025,0,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+9444-GIJLT,0.2508,0,"No online security, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+2084-WPUOC,0.6632,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+4821-FAHAO,0.1095,0,"No online security, No tech support",Standard engagement; invite referral program
+9138-NOSTK,0.0208,0,"No online security, No tech support",Standard engagement; invite referral program
+2305-UMCMH,0.1146,0,"No online security, No tech support",Standard engagement; invite referral program
+8279-VITSM,0.1195,0,"Electronic check, No online security",Standard engagement; invite referral program | Promote speed-feature education
+2195-XPPZY,0.2417,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+3633-VLFSG,0.5214,1,"No online security, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+8634-ZBPMB,0.5036,1,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+5349-HJEXM,0.5872,1,"Electronic check, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1663-VIWDN,0.8506,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+6846-IQTGV,0.3144,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+7230-USYGY,0.3308,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+1348-QWPAT,0.7827,1,"Electronic check, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+3017-ZGVMA,0.4428,0,"Electronic check, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+8890-BSZZV,0.5328,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips)
+2239-LTMHY,0.065,0,"No online security, No tech support",Standard engagement; invite referral program
+4548-WPQFD,0.1227,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+4021-HUDPX,0.3267,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+6420-JWGKX,0.3145,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+2062-JHWIA,0.3064,0,"Short contract, No online security",Standard engagement; invite referral program
+7457-AHHIR,0.8465,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Welcome concierge for new users | Promote speed-feature education
+5750-CEQUV,0.5064,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+8507-SXPQG,0.6585,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+8752-XSMSY,0.5987,1,"Electronic check, No online security, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users | Promote speed-feature education
+5902-NSPLH,0.5671,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+6382-LRWCX,0.2628,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+8620-GXWYY,0.7813,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+8132-MWSDS,0.1867,0,No tech support,Standard engagement; invite referral program
+6435-UUAYF,0.2931,0,"Electronic check, No online security",Standard engagement; invite referral program
+3077-JYRBU,0.4486,0,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+7955-TAIAA,0.4056,0,"Short contract, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+4904-LEGUC,0.2374,0,"No online security, No tech support, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+1448-GGVPU,0.7882,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+2575-VHOSC,0.3588,0,"Short contract, Electronic check, No online security",Standard engagement; invite referral program
+7264-ORAHB,0.5692,1,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)
+6515-ZFVHL,0.3059,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+7704-QIHPH,0.4975,0,"No online security, No tech support, Very new customer",Education-series emails (how-to tips) | Welcome concierge for new users
+5209-XAECA,0.3631,0,No tech support,Standard engagement; invite referral program | Promote speed-feature education
+1703-HVINA,0.8135,1,"Short contract, No online security, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+6615-ZAZGW,0.2619,0,"Short contract, Electronic check, No tech support",Standard engagement; invite referral program | Promote speed-feature education
+7873-ZDIVX,0.6597,1,"No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+6668-NSFYI,0.729,1,"Short contract, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+2924-IMEST,0.7818,1,"Short contract, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+3584-STZMC,0.1419,0,"Electronic check, No online security, No tech support",Standard engagement; invite referral program
+3208-FOKVP,0.2909,0,"Electronic check, No online security",Standard engagement; invite referral program | Promote speed-feature education
+5123-RADJG,0.7196,1,"Short contract, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+9218-BJEIX,0.4242,0,No tech support,Education-series emails (how-to tips) | Promote speed-feature education
+4054-JNRBP,0.7951,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Promote speed-feature education
+2286-KAVNC,0.7184,1,"No online security, No tech support, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+3938-YJLOI,0.8087,1,"Short contract, No tech support",Immediate retention call + limited-time 30% discount | Priority support review of recent issues | Promote speed-feature education
+4554-ZGMBM,0.2167,0,Electronic check,Standard engagement; invite referral program
+9492-CXMEV,0.4161,0,"No online security, No tech support",Education-series emails (how-to tips)
+5019-TNHKT,0.5183,1,"Short contract, No online security, No tech support",Education-series emails (how-to tips) | Welcome concierge for new users
+8760-LSIXQ,0.3295,0,"No online security, Very new customer",Standard engagement; invite referral program | Welcome concierge for new users
+5321-RDJDT,0.7177,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+1380-IETZX,0.4432,0,"Electronic check, No tech support",Education-series emails (how-to tips) | Promote speed-feature education
+1966-XNBDK,0.3989,0,"Short contract, No online security, No tech support",Standard engagement; invite referral program
+6168-DCBFB,0.604,1,"Short contract, No online security, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+4145-JYAZH,0.7742,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users
+6884-JFVVW,0.7366,1,"Short contract, Electronic check, No online security",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+8751-ZKUUS,0.5134,1,No online security,Education-series emails (how-to tips) | Promote speed-feature education
+7796-ELQYR,0.7155,1,"No online security, Very new customer",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive | Welcome concierge for new users | Promote speed-feature education
+3624-RMHZT,0.1157,0,—,Standard engagement; invite referral program | Promote speed-feature education
+4711-YJUJE,0.6016,1,"Short contract, No tech support",Targeted re-engagement email + 14-day add-on trial | Offer annual plan with incentive
+5334-KRXEG,0.4583,0,"Short contract, Electronic check, No online security",Education-series emails (how-to tips)

@@ -1,0 +1,15 @@
+{
+  "LogisticRegression": {
+    "roc_auc": 0.8353570152869737,
+    "precision": 0.4918032786885246,
+    "recall": 0.8021390374331551,
+    "f1": 0.6097560975609756
+  },
+  "RandomForest": {
+    "roc_auc": 0.8181805239916964,
+    "precision": 0.6232876712328768,
+    "recall": 0.48663101604278075,
+    "f1": 0.5465465465465466
+  },
+  "best_model": "LogisticRegression"
+}

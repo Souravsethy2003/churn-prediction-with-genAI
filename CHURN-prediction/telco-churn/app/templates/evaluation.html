@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Model Evaluation — Telco Churn</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="brand">Telco<span class="accent">Churn</span></div>
+      <nav class="nav">
+        <a class="nav-link" href="{{ url_for('index') }}">Back</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card eval-card">
+      <h2>Model Evaluation</h2>
+      <p class="muted">Charts are loaded here for deeper inspection. Images are served from <code>/static/charts/</code>.</p>
+
+      <div class="eval-charts">
+        <div class="chart-wrap">
+          <h4>ROC Curve</h4>
+          <img src="{{ url_for('static', filename='charts/roc_curve.png') }}" alt="ROC Curve" class="eval-image" />
+        </div>
+
+        <div class="chart-wrap">
+          <h4>Precision-Recall Curve</h4>
+          <img src="{{ url_for('static', filename='charts/pr_curve.png') }}" alt="PR Curve" class="eval-image" />
+        </div>
+
+        <div class="chart-wrap">
+          <h4>Churn Distribution (train)</h4>
+          <img src="{{ url_for('static', filename='charts/churn_distribution.png') }}" alt="Churn distribution" class="eval-image" />
+        </div>
+        
+      </div>
+    </section>
+  </main>
+</body>
+</html>

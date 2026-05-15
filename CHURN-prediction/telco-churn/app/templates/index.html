@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Telco Churn — Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="brand">Telco<span class="accent">Churn</span></div>
+      <nav class="nav">
+        <!-- Model evaluation link made prominent -->
+        <a class="nav-link eval" href="{{ url_for('model_evaluation') }}">Model evaluation</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card layout">
+      <!-- LEFT PANEL now spans full content width (no right panel) -->
+      <div class="left fullwidth">
+        <h2>Bulk score customers</h2>
+        <p class="muted">Upload a Telco-format CSV. The system will score every customer and return: a scored CSV, churn chart, top reasons and a preview.</p>
+
+        <form id="bulkForm" class="form">
+          <label class="file-label">
+            <input type="file" id="fileInput" accept=".csv" />
+            <span id="fileName" class="file-name">No file chosen</span>
+          </label>
+
+          <div class="controls">
+            <button type="submit" id="uploadBtn" class="btn primary" disabled>Upload & Predict</button>
+            <a id="downloadLink" class="btn ghost" style="display:none" target="_blank" download>Download results</a>
+          </div>
+
+          <div id="bulkOutput" class="status"></div>
+        </form>
+
+        <div id="resultArea" class="result" style="display:none">
+          <div class="result-top">
+            <div>
+              <h4>Predicted churn</h4>
+              <img id="churnChart" src="" alt="Churn bar chart" class="chart" />
+            </div>
+
+            <div>
+              <h4>Top reasons</h4>
+              <ol id="topReasons" class="reasons"></ol>
+
+              <div style="margin-top:12px">
+                <button id="genaiBtn" class="btn primary">Generate AI Recommendations</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="preview-block">
+            <h4>Preview (first 10)</h4>
+            <div id="previewTable" class="preview-table"></div>
+          </div>
+
+          <div class="ai-block">
+            <h4>AI Recommendations</h4>
+            <div id="genaiOutput" class="ai-box">Click "Generate AI Recommendations" to get actionable items.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <div class="container foot-inner">
+        <div>Built for Churn Prediction for SAAS </div>
+        <div class="muted small">Local demo • Keep keys and data private</div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
